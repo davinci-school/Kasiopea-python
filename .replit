@@ -1,0 +1,10 @@
+run ="python main.py"
+#run ="python krystof.py < in.txt"
+#run ="python seban.py < in.txt"
+#run ="python dodko.py < in.txt"
+
+#run =" python 2020/A_reklama.py < 2020/A_in.txt"
+#run =" python 2020/B_vylet.py < 2020/B_in.txt"
+
+
+
