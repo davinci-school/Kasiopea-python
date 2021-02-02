@@ -1,9 +1,9 @@
 pocet_zadani = int(input())
 while pocet_zadani > 0:
     pocet_zadani -= 1
-    min_teplota = 1000
     pocet_dni = int(input())
     teploty = [int(i) for i in input().split()]
+    min_teplota = 1000
     for den in range(pocet_dni-2):
         prvni_teplota = teploty[den]
         druha_teplota = teploty[den+1]

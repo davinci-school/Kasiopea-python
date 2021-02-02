@@ -1,0 +1,1 @@
+#zapoměli jsme si kód uložit, můžete si ho klidně zopakovat
