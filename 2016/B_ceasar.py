@@ -10,7 +10,7 @@ pozice_R = 17
 #print(len(ABECEDA))
 zadani = int(input())
 while zadani > 0:
-  print("zadani",4- zadani)  
+  print("zadani",4- zadani)
   zadani -= 1
   pocet_slov = int(input())
   slova =  [i for i in input().split()]
